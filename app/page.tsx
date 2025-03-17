@@ -1,7 +1,10 @@
+import HelloMonk from "@/components/HelloMonk"
+
+
 export default function Home() {
   return (
     <div>
-        Hello
+        <HelloMonk />
     </div>
   );
 }
